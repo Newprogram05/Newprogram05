@@ -2,7 +2,7 @@
 - 👀 I’m interested in aprender e entender cada vez mais sobre programação(não sei oque eu vou fazer ainda, mas estou me esfroçando)
 - 🌱 I’m currently learning por enquanto a base
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me não é necessario
+- 📫 How to reach me: pelo meu email kaiofox.com.eduardo@gmail.com
 - 😄 Pronouns: ele/café e energetico
 - ⚡ Fun fact: se deixar eu durmo 12 horas ou +
 
