@@ -7,7 +7,8 @@
 
 ![Static Badge](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
 
-ja tenho uma base de: https://img.shields.io/badge/Css-blue?logo=Css3
+ja tenho uma base de: ![Static Badge](https://img.shields.io/badge/Css-blue?logo=Css3)
+
 ![Static Badge](https://img.shields.io/badge/Html-white?logo=Html5)
 
 
