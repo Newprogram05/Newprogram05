@@ -1,6 +1,6 @@
 <h1>Hello, my name is Kaio</h1>
 <p>I am studying computer science at college, my interest is front end;</p>
-<P>I have experience with projects simple of page web, but I pretend <i>improve me</i>;</P>
+<P>I have experience with projects simple of page web, but I intend <i>to improve myself</i>;</P>
 <P>I am have experiencie with:</P>
 
 ![Static Badge](https://img.shields.io/badge/JAVA_SCRIPT-black?style=for-the-badge&logo=Javascript)
