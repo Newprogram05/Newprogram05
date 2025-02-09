@@ -1,19 +1,17 @@
-<h1>Oi meu nome é Kaio Eduardo</h1>
-<p>estudo ciencias da computação na Estacio e estou interessado em trabalhar na area de front-end;</p>
-<P>tenho experiência com a construção de projetos simples, pretendo me <i>aprimorar</i>;</P>
-<P>estou aprendendo a usar:</P>
+<h1>Hello, my names is Kaio</h1>
+<p>I am studying computer science at college, my interest is front end;</p>
+<P>I have experience whit projects simple of page web, but I pretend <i>improve myself</i>;</P>
+<P>I am have experiencie whit:</P>
 
 ![Static Badge](https://img.shields.io/badge/JAVA_SCRIPT-black?style=for-the-badge&logo=Javascript)
 
 ![Static Badge](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git)
 
-ja tenho uma base de: ![Static Badge](https://img.shields.io/badge/Css-blue?logo=Css3)
-
-![Static Badge](https://img.shields.io/badge/Html-white?logo=Html5)
+![Static Badge](https://img.shields.io/badge/Css-blue?logo=Css3) ![Static Badge](https://img.shields.io/badge/Html-white?logo=Html5)
 
 
 <!-- area de rede social-->
-Moro em Frecherinha CE.
+Brazil CE Frecherinha
 
 <!---
 Newprogram05/Newprogram05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
